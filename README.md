@@ -4,6 +4,8 @@ Offchain Wallet Management is a web application that allows users to easily sign
 
 Transactions performed by the user are securely recorded on the blockchain. These transactions are signed by the admin wallet in the backend, ensuring the integrity and security of the user's interactions. The user is shielded from the complexities of blockchain operations, enabling a user-friendly trading experience.
 
+For interacting with the app using a User Interface, please clone the [Offchain Wallet Management Frontend.](https://github.com/shadab-iqbal/Offchain-Wallet-Management-Frontend)
+
 ## Features
 
 - User-friendly sign-up and sign-in process using email and password.
